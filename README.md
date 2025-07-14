@@ -44,7 +44,7 @@
 
 ## 🤝 Let's Connect!  
 
-📧 *Email:* simarpreetsaini@gmail.com
+📧 *Email:* simarpreetsaini96@gmail.com
 
 🌎 *Portfolio:* 
 
