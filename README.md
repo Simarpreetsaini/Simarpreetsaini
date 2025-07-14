@@ -34,8 +34,7 @@
 
 ## 🔥 GitHub Stats  
 
-<p align="center">
-
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Simarpreetsaini&show_icons=true&theme=radical&hide_border=true" width="48%" />
 </p>
 
