@@ -50,7 +50,7 @@
 
 🌎 *Portfolio:* 
 
-💼 *LinkedIn:* https://www.linkedin.com/in/simarpreet-singh-57054128a/
+💼 *LinkedIn:* www.linkedin.com/in/simarpreet-singh-57054128a
 ---
 
 🌟 If you like my work, consider giving a ⭐ on my repositories and following me! 😊✨  
