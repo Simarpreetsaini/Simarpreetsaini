@@ -34,7 +34,8 @@
 
 ## 🔥 GitHub Stats  
 
-<p>
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simarpreetsaini&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=Simarpreetsaini&show_icons=true&theme=radical&hide_border=true" width="48%" />
 </p>
 
