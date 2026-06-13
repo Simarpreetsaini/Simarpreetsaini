@@ -48,7 +48,7 @@
 
 📧 *Email:* simarpreetsaini96@gmail.com
 
-🌎 *Portfolio:* 
+🌎 *Portfolio:* https://portfolio-one-blush-e9e7ep4574.vercel.app/
 
 💼 *LinkedIn: https://www.linkedin.com/in/simarpreet-singh-57054128a/
 ---
