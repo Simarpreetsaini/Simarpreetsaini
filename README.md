@@ -212,7 +212,7 @@ Worked closely with the development team to deliver reliable, maintainable, and 
 <div align="center">
 
 [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Simarpreetsaini)](https://www.readmecodegen.com/custom-github-card-generator)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Simarpreetsaini&theme=radical&hide_border=true" width="49%"/>
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Simarpreetsaini&cardType=streak)](https://www.readmecodegen.com/custom-github-card-generator)
 
 </div>
 
