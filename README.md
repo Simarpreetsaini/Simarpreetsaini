@@ -181,7 +181,7 @@ Explore the full collection of my work, experiments, and contributions on my Git
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Simarpreetsaini&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=8&margin-h=8" width="90%"/>
+<img src="https://github-profile-trophy-git-masterryxa.vercel.app/?username=Simarpreetsaini&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
 <br/>
@@ -200,7 +200,7 @@ Explore the full collection of my work, experiments, and contributions on my Git
 ## 🔥 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simarpreetsaini&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" width="60%"/>
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Simarpreetsaini&layout=compact&theme=radical" />
 </div>
 
 <br/>
