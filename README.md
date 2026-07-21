@@ -202,6 +202,7 @@ Worked closely with the development team to deliver reliable, maintainable, and 
 ## 🏅 GitHub Trophies
 
 <div align="center">
+  
 ![AI Engineer](https://img.shields.io/badge/AI-Engineer-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/Full-Stack-0EA5E9?style=for-the-badge&logo=react&logoColor=white)
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
