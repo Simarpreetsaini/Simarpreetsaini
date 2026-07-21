@@ -211,7 +211,7 @@ Worked closely with the development team to deliver reliable, maintainable, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Simarpreetsaini&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="49%"/>
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Simarpreetsaini)](https://www.readmecodegen.com/custom-github-card-generator)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simarpreetsaini&theme=radical&hide_border=true" width="49%"/>
 
 </div>
