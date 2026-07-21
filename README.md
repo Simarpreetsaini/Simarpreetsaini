@@ -202,7 +202,7 @@ Worked closely with the development team to deliver reliable, maintainable, and 
 ## 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Simarpreetsaini&theme=flat&row=1&column=1&no-bg=true&no-frame=true" alt="Simarpreetsaini trophies"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Simarpreetsaini&theme=github_dark"/>
 </div>
 
 <br/>
