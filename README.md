@@ -199,8 +199,6 @@ Worked closely with the development team to deliver reliable, maintainable, and 
 
 </br>
 
-## 🏅 GitHub Trophies
-
 <div align="center">
   
 ![AI Engineer](https://img.shields.io/badge/AI-Engineer-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
@@ -213,8 +211,6 @@ Worked closely with the development team to deliver reliable, maintainable, and 
 
 <br/>
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Simarpreetsaini)](https://www.readmecodegen.com/custom-github-card-generator)
@@ -224,7 +220,6 @@ Worked closely with the development team to deliver reliable, maintainable, and 
 
 <br/>
 
-## 🔥 Top Languages
 
 <div align="center">
   
@@ -234,15 +229,11 @@ Worked closely with the development team to deliver reliable, maintainable, and 
 
 <br/>
 
-## 📈 Contribution Graph
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Simarpreetsaini&theme=react-dark&hide_border=true" width="95%"/>
 </div>
 
 <br/>
-
-## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Simarpreetsaini/Simarpreetsaini/output/github-contribution-grid-snake-dark.svg" width="95%"/>
