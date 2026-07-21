@@ -202,7 +202,8 @@ Worked closely with the development team to deliver reliable, maintainable, and 
 ## 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Simarpreetsaini&theme=github_dark"/>
+[<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Simarpreetsaini&theme=github_dark"/>](https://img.shields.io/badge/AI-Engineer-8A2BE2?style=for-the-badge&logo=openai&logoColor=white-
+)
 </div>
 
 <br/>
