@@ -221,6 +221,7 @@ Worked closely with the development team to deliver reliable, maintainable, and 
 ## 🔥 Top Languages
 
 <div align="center">
+  
 [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Simarpreetsaini&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
 
 </div>
