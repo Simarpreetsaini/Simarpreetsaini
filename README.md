@@ -181,7 +181,7 @@ Explore the full collection of my work, experiments, and contributions on my Git
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Simarpreetsaini&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Simarpreetsaini&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=8&margin-h=8" width="90%"/>
 </div>
 
 <br/>
@@ -190,7 +190,7 @@ Explore the full collection of my work, experiments, and contributions on my Git
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Simarpreetsaini&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Simarpreetsaini&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simarpreetsaini&theme=radical&hide_border=true" width="49%"/>
 
 </div>
@@ -200,7 +200,7 @@ Explore the full collection of my work, experiments, and contributions on my Git
 ## 🔥 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simarpreetsaini&layout=compact&theme=radical&hide_border=true" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simarpreetsaini&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" width="60%"/>
 </div>
 
 <br/>
@@ -219,7 +219,56 @@ Explore the full collection of my work, experiments, and contributions on my Git
   <img src="https://raw.githubusercontent.com/Simarpreetsaini/Simarpreetsaini/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
 
-> 💡 To enable this animation, set up the [GitHub Snake Action](https://github.com/Platane/snk) in your profile repository workflow.
+<details>
+<summary><b>⚙️ One-time setup: enable the Snake animation (click to expand)</b></summary>
+<br/>
+
+This snake image only renders once its GitHub Action has run at least once on your **profile repository** (a repo named exactly like your username, e.g. `Simarpreetsaini/Simarpreetsaini`).
+
+**Step 1 —** In that repo, create `.github/workflows/snake.yml` with:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: Simarpreetsaini
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 2 —** Commit and push this file to the `main` branch of your profile repo.
+
+**Step 3 —** Go to **Actions** → **Generate Snake Animation** → **Run workflow** to trigger it the first time.
+
+**Step 4 —** Once it finishes, an `output` branch appears with the generated SVGs, and the image above will start rendering (allow a minute or two for GitHub's CDN cache).
+
+</details>
 
 <br/>
 
