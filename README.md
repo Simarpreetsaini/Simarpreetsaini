@@ -29,7 +29,9 @@
 ## 📌 Featured Projects  
 
 📌 Explore all my projects: 
-
+AI Interview System : https://ai-interview-system-mdaq-alpha.vercel.app/
+Leraning Management Systen : https://learning-management-system-ashen-nine.vercel.app/
+Qunatum Key Simulation : https://quantum-key-simulation.vercel.app/
 ---
 
 ## 🔥 GitHub Stats  
