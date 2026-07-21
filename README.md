@@ -202,9 +202,9 @@ Worked closely with the development team to deliver reliable, maintainable, and 
 ## 🏅 GitHub Trophies
 
 <div align="center">
+  
 ![Static Badge](https://img.shields.io/badge/AI-Engineer-8A2BE2?style=for-the-badge&logo=openai&logoColor=white-)
-
-
+  
 </div>
 
 <br/>
