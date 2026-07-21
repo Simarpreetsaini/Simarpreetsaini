@@ -181,14 +181,13 @@ Explore the full collection of my work, experiments, and contributions on my Git
 
 💼 Industrial Trainee — Ryazio Technologies LLP
 
-🗓️ 6 Months Industrial Training
+🗓️ 6 weeks Industrial Training
 
 Developed full-stack web applications using the MERN Stack (MongoDB, Express.js, React.js, Node.js).
 Built responsive user interfaces and integrated RESTful APIs for seamless frontend-backend communication.
 Worked with Git/GitHub, database management, authentication, and deployment workflows.
 </br>
 
-.
 💼 MERN Stack Intern — Novem Controls
 
 🗓️ Internship
