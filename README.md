@@ -221,7 +221,7 @@ Worked closely with the development team to deliver reliable, maintainable, and 
 ## 🔥 Top Languages
 
 <div align="center">
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Simarpreetsaini&layout=compact&theme=radical" />
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Simarpreetsaini&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
 </div>
 
 <br/>
