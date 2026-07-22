@@ -182,20 +182,19 @@ Explore the full collection of my work, experiments, and contributions on my Git
 💼 Industrial Trainee — Ryazio Technologies LLP
 
 🗓️ 6 weeks Industrial Training
+- Developed full-stack web applications using the MERN Stack
+- Built responsive user interfaces and integrated RESTful APIs
+- Worked with MongoDB, Git/GitHub, and authentication systems
 
-Developed full-stack web applications using the MERN Stack (MongoDB, Express.js, React.js, Node.js).
-Built responsive user interfaces and integrated RESTful APIs for seamless frontend-backend communication.
-Worked with Git/GitHub, database management, authentication, and deployment workflows.
 </br>
 
 💼 MERN Stack Intern — Novem Controls
 
 🗓️ Internship
 
-Developed and maintained web applications using React.js, Node.js, Express.js, and MongoDB.
-Implemented reusable UI components and optimized application performance for a better user experience.
-Integrated backend APIs, managed databases, and resolved application bugs through testing and debugging.
-Worked closely with the development team to deliver reliable, maintainable, and user-focused software solutions.
+- Developed and maintained responsive MERN Stack applications
+- Built reusable React components and backend APIs
+- Optimized application performance and resolved bugs through testing
 
 </br>
 
