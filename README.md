@@ -32,7 +32,7 @@ name: "Simarpreet Singh"
 role: ["Software Engineer", "AI Engineer", "Full Stack Developer"]
 focus: "Building scalable, intelligent, and user-friendly applications"
 current_learning: "Advanced Deep Learning & Cloud-Native Architectures"
-industrial_training: "26 Weeks at C-DAC Mohali"
+industrial_training: "26 Weeks at C-DAC Mohali", " 6 week at ryazio LLP Technologies & Novem Controls"
 fun_fact: "I debug with console.log() and I'm not ashamed of it 😄"
 ```
 
